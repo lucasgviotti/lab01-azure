@@ -1,10 +1,10 @@
 # lab01-azure
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO.me
 
-O que é a computação em nuvem?
-  A computação em nuvem é o fornecimento de serviços de computação pela internet, habilitando inovações mais rápidas, recursos flexíveis e economias de escala.
+**O que é a computação em nuvem?**
+- A computação em nuvem é o fornecimento de serviços de computação pela internet, habilitando inovações mais rápidas, recursos flexíveis e economias de escala.
 
-Tipos de modelos
+**Tipos de modelos**
 - **Nuvem Privada**
     
     As organizações criam um ambiente em nuvem em seu datacenter.
